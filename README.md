@@ -31,10 +31,10 @@ The literature search was conducted using Scopus. The searches returned **565 pa
 
 | Research Area | Papers Retrieved |
 |---|---:|
+| Human–AI Collaboration in Design | 51 |
+| AI and Design Theory | 70 |
 | AI and Early Stages of Design | 224 |
 | AI and Detailed Design | 207 |
-| AI and Design Theory | 70 |
-| Human–AI Collaboration in Design | 51 |
 | AI Education in Design | 13 |
 | **Total** | **565** |
 
