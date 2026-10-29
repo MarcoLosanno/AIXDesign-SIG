@@ -21,7 +21,7 @@ These areas represent different perspectives on the integration of AI into engin
 The repository provides the materials used to identify and select the literature for analysis:
 
 - **Scopus search queries:** The complete search strings used to retrieve publications for each research area.
-- **Selected papers:** The lists of the most-cited papers selected for further analysis in each research area.
+- **Relevant papers:** The lists of the most-cited papers selected for further analysis in each research area.
 
 The search queries combine three components: the ISSNs of relevant design journals and conference proceedings, AI-related keywords, and domain-specific keywords tailored to each research area.
 
